@@ -1,6 +1,6 @@
 # 🍽️ ConciergeAI: Restaurant Recommendation RAG Chatbot
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yashpvyas19/restaurant-recommendation-rag-bot/blob/main/Restaurant_Recommendation_Bot_RAG_Demo.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/Framework-LangChain-orange.svg)](https://www.langchain.com/)
 [![VectorDB](https://img.shields.io/badge/VectorDB-ChromaDB-green.svg)](https://www.trychroma.com/)
